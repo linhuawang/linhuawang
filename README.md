@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @linhuawang
 - 👀 I’m interested in Machine Learning, Data Science and Computational Biology
-- 🌱 I’m currently working on a comprehensive toolbox to faciliatating Spatial Transcriptomics data analyses
+- 🌱 I’m currently working on a comprehensive toolbox to faciliatate Spatial Transcriptomics data analyses
 - 💞️ In my leisure time, I enjoy coffee, sports and playing with my pets
 - 📫 Please feel free to contact me at linhuaw(at)bcm(dot)edu
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) linhuaw](https://www.linkedin.com/in/linhuaw)
